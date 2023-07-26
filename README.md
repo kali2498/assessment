@@ -7,13 +7,13 @@ This was an individual executed within a day.
 Have a look ⬇️
 
 <h2>Technologies Used</h2>
-- Next js
-- HTML/CSS
-- Javascript
-- Tailwind
+- Next js <br/>
+- HTML/CSS <br/>
+- Javascript <br/>
+- Tailwind <br/>
 
 <h2>Installation</h2>
-1. Clone the repository: https://github.com/kali2498/assessment
+1. Clone the repository: https://github.com/kali2498/assessment <br/>
 2. Install the dependencies: <b>npm install<b>
 
 <h2>Usage</h2>
