@@ -32,12 +32,8 @@ Have a look ⬇️
 - Deployed Link of the application:-https://unstop-assessment-main.vercel.app/
 
 
-
 ![Screenshot (3458)](https://github.com/kali2498/assessment/assets/103638485/3f9111e8-7ef1-4b09-806f-90733999d18b)
 
-
 ![Screenshot (3460)](https://github.com/kali2498/assessment/assets/103638485/9eaeaa40-b1ae-47e6-a178-1475decdfdfb)
-
-![Screenshot (3463)](https://github.com/kali2498/assessment/assets/103638485/2dc579ea-5fe8-4cec-9c53-f1b1a578bc3e)
 
 ![Screenshot (3459)](https://github.com/kali2498/assessment/assets/103638485/4d4b8f6f-8bc0-4022-b455-71efd482813d)
