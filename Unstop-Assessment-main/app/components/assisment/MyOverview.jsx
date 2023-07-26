@@ -88,7 +88,7 @@ const MyOverview = ({ data }) => {
               </span>
             </div>
           </div>
-          <div className="border-2 xl:border-0 rounded-lg xl:rounded-none pl-2 py-2 md:py-4">
+          <div className="border-2 xl:border-0 xl:border-r-2 md:border-r-2 rounded-lg xl:rounded-none pl-2 py-2 md:py-4">
             <span className="subheading1 px-0 sm:px-2 md:px-6">
               Candidates Source
             </span>
@@ -120,7 +120,7 @@ const MyOverview = ({ data }) => {
               </span>
             </div>
           </div>
-          <div className="border-2 xl:border-0 xl:border-r-2 md:border-r-2 rounded-lg xl:rounded-none py-2 md:py-4">
+          <div className=" rounded-lg xl:rounded-none py-2 md:py-4">
             <span className="subheading1 px-4 md:px-6">Total Purpose</span>
             <div className="flex items-center gap-4 my-4 px-4 md:px-6">
               <Image src={TP} alt="ta" />

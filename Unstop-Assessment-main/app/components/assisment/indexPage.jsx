@@ -164,12 +164,13 @@ const indexPage = () => {
                             label="Duration of assessment"
                             type="text"
                             onKeyUp={addSkills}
+                           
                           />
 
-                          <div className="bg-gray-50 px-4 py-3 sm:flex sm:flex-row-reverse sm:px-6">
+                          <div className="bg-gray-50 px-4 py-3  sm:flex sm:flex-row-reverse sm:px-6">
                             <button
                               type="submit"
-                              className="inline-flex w-full justify-center rounded-md bg-blue-600 px-3 py-2 text-sm font-semibold text-white shadow-sm sm:ml-3 sm:w-auto"
+                              className="inline-flex  justify-center rounded-md bg-blue-600 px-3 py-2 text-sm font-semibold text-white shadow-sm sm:ml-3 sm:w-auto"style={{width:"100%"}}
                             >
                               Save
                             </button>
@@ -197,6 +198,12 @@ const data = [
     questions: "00",
     duration: "00",
     date: "20 Apr 2023",
+    attendees: [
+      {
+        id: 1,
+        name: "Uzair Ansari"
+      }
+    ],
   },
   {
     title: "React Assessment",
@@ -204,5 +211,16 @@ const data = [
     questions: "00",
     duration: "00",
     date: "11 Sep 2023",
+    attendees: [
+			{
+				id: 1,
+				name: "Uzair Ansari",
+			},
+			{
+				id: 2,
+				name: "Neha Sahu",
+			}
+		],
+	
   },
 ];

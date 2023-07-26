@@ -5,6 +5,7 @@ import Schedule from "../../../public/schedule.png";
 import VerticalDots from "../../../public/dots.png";
 import Work from "../../../public/work.png";
 import Share from "../../../public/share.png";
+import { BiLinkAlt } from "react-icons/bi";
 
 const MyCard = ({ data }) => {
   return (
@@ -38,7 +39,29 @@ const MyCard = ({ data }) => {
           </div>
         </div>
         <div className="flex items-center justify-end space-x-1">
-          <Image src={Share} alt="abc" className="cursor-pointer" />
+          <span
+            style={{
+              border: "1px solid gray",
+              display: "flex",
+              justifyContent: "center",
+              alignItems: "center",
+              gap: "5px",
+              borderRadius: "15px",
+              padding: "5px",
+              marginRight: "10px",
+              width: "55%",
+            }}
+          >
+            <div>
+              <BiLinkAlt color="gray" height={16} />
+            </div>
+
+            <div>
+              <button style={{ color: "lightgray", fontSize: "14px" }}>
+                Share
+              </button>
+            </div>
+          </span>
           <Image src={Avatar} alt="abc" />
         </div>
       </div>
@@ -47,3 +70,5 @@ const MyCard = ({ data }) => {
 };
 
 export default MyCard;
+
+//// <Image src={Share} alt="abc" className="cursor-pointer  border-b-2 border-solid red" />
