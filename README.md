@@ -12,17 +12,19 @@ Have a look ⬇️
 - Javascript <br/>
 - Tailwind <br/>
 
+
 <h2>Installation</h2>
 1. Clone the repository: https://github.com/kali2498/assessment <br/>
 2. Install the dependencies: <b>npm install<b>
 
 <h2>Usage</h2>
-1. Start the application: npm start
-2. Connect your mobile device or use an emulator to run the application.
-3. Follow the on-screen instructions to navigate through the app and explore its features.
+1. Start the application: npm start<br/>
+2. Connect your mobile device or use an emulator to run the application.<br/>
+3. Follow the on-screen instructions to navigate through the app and explore its features.<br/>
 
 <h2>Screenshots</h2>
-1![Screenshot (3450)](https://github.com/kali2498/assessment/assets/103638485/0bb96076-341a-450c-b5eb-f8726fdf39ab)
+
+![Screenshot (3450)](https://github.com/kali2498/assessment/assets/103638485/30fb64bc-c99d-42c1-99b4-7b2b8999881a)
 
 ![Screenshot (3451)](https://github.com/kali2498/assessment/assets/103638485/6ee7fbd8-0bb8-4db0-b32e-4913019cc1a9)
 
